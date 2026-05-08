@@ -8,7 +8,7 @@ const ALLOWED_ORIGINS = [
   "http://localhost:3000",
   "http://localhost:5173",
   "https://oficina.wuaze.com",
-  "https://seudominio.com"
+  "https://truquebr.vercel.app"
 ];
 
 app.use(cors({
